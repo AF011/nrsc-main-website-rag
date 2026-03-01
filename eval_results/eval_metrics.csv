@@ -1,0 +1,4 @@
+,Hit Rate,MRR,Precision@k,Coverage,Total Qs
+mmr,0.5895,0.5074,0.0737,1.0,3218.0
+similarity,0.711,0.5439,0.0889,1.0,3218.0
+threshold,0.1134,0.1103,0.1025,0.1405,3218.0
